@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "game": "./dist/index.js"
+    "game": "./dist/game.js",
+    "analyzer": "./dist/analyzer.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
